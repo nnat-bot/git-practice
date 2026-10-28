@@ -1,3 +1,4 @@
 I am trying to learn sth new
 It was confusing at first, but she kept trying.
 In the end, she started to like Git.
+Edited after cloning the repository.
